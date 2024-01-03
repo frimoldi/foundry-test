@@ -2,6 +2,4 @@
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
 	branch = v1.5.1
-[submodule "sense-v1/pkg/deployments/lib/morpho-core-v1"]
-	path = sense-v1/pkg/deployments/lib/morpho-core-v1
-	url = https://github.com/morpho-dao/morpho-core-v1
+
